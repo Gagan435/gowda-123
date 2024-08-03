@@ -1,0 +1,32 @@
+<html>
+<head>
+<title> Advantages of business process automation </title>
+<style> 
+h1
+{
+color: red;
+}
+h2
+{
+color: White;
+}
+p
+{
+color: green;
+}
+</style>
+</head>
+<body bgcolor="pink">
+<h1> Advantages of business process automation with respect to Computer Science</h1>
+<h2> Transportation</h2>
+<p> Driver for ola and Uber as well as those who deliver for app like ola and Uber </p>
+<h2> Healthcare</h2>
+<p> Automation in Healthcare have helped to increase the quality of patient care</p>
+<h2> Online Marketing</h2>
+<p> Automation in Online Marketing helps to customer to purchase and sell goods or products 
+using online applications </p>
+<h2>Telecommunication</h2>
+<p> Automation in Telecommunication helps to automate office system, customer service, billing 
+system etc. </p>
+</body>
+</html>
